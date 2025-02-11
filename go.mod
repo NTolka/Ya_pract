@@ -1,0 +1,1 @@
+module github.com/NTolka/Ya_pract
